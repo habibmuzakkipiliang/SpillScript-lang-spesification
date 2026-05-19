@@ -423,7 +423,7 @@ spill("Coding : ", biodata["coding"])
 
 ``` spillscript
 gas dasar():
-       spill("Hello World")
+    spill("Hello World")
 
 dasar()
 
@@ -435,7 +435,7 @@ dasar()
 
 ``` spillscript
 gas kop(nama):
-        spill ("Hello ", nama)
+    spill ("Hello ", nama)
 
 kop("Hayyan”)
 
@@ -447,7 +447,7 @@ kop("Hayyan”)
 
 ``` spillscript
 gas sun(nama):
-        balik("Hello ", nama)
+    balik("Hello ", nama)
 
 hasil = sun("Soft")
 spill(hasil)
@@ -460,7 +460,7 @@ spill(hasil)
 
 ``` spillscript
 gas kop(nama):
-         spill(f”Hello  {nama}”)
+    spill(f”Hello  {nama}”)
 
 kop(“Hayyan”)
 kop(“Ruyyan”)
@@ -475,7 +475,7 @@ kop(“Ruft”)
 
 ``` spillscript
 gas sun(nama):
-         balik(f”Hello  {nama}”)
+    balik(f”Hello  {nama}”)
 
 hasil = sun(“Hayyan”)
 spill(hasil)
