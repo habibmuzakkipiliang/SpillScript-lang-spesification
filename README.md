@@ -1,3 +1,6 @@
+[📖 README](README.md) | [👥 Contributing](CONTRIBUTING.md) | [⚖️ MIT License](LICENSE) | [💡 Solusi](SOLUSI.md)
+   ---
+
 # SpillScript
 
 [![GitHub](https://img.shields.io/badge/GitHub-habibmuzakkipiliang-blue?style=flat-square)](https://github.com/habibmuzakkipiliang)
