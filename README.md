@@ -207,7 +207,7 @@ var cek = bener
 jika cek:
     jika tor > 5:
         spill("Besar")
-    silau:
+    silau tor < 5:
         spill("kecil")
 maka:
     spill("sama saja")
