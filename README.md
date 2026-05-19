@@ -437,7 +437,7 @@ dasar()
 
 ``` spillscript
 gas kop(nama):
-    spill ("Hello ", nama)
+    spill("Hello ", nama)
 
 kop("Hayyan”)
 
