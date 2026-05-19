@@ -50,6 +50,15 @@ multiline
 */
 ```
 
+### Memulai Hello World
+
+```spillscript
+// Hello World
+
+spill("Hello World")
+
+```
+
 ### Variabel
 
 ```spillscript
@@ -221,11 +230,11 @@ var cek = bener
 
 jika cek:
      jika yor > 5:
-         spill ("Besar")
+         spill("Besar")
      maka:
-        spill ("Kecil")
+        spill("Kecil")
 maka:
-    spill ("Sama saja")
+    spill("Sama saja")
 
 ```
 
@@ -413,10 +422,10 @@ spill("Coding : ", biodata["coding"])
 ### Fungsi dasar 
 
 ``` spillscript
-gas dasar ():
-       spill ("Hello World")
+gas dasar():
+       spill("Hello World")
 
-dasar ()
+dasar()
 
 ```
 
@@ -425,10 +434,10 @@ dasar ()
 ### Fungsi dasar dengan parameter 
 
 ``` spillscript
-gas kop (nama):
+gas kop(nama):
         spill ("Hello ", nama)
 
-kop ("Hayyan”)
+kop("Hayyan”)
 
 ```
 
@@ -437,11 +446,11 @@ kop ("Hayyan”)
 ### Fungsi dasar dengan return 
 
 ``` spillscript
-gas sun (nama):
-        balik ("Hello ", nama)
+gas sun(nama):
+        balik("Hello ", nama)
 
-hasil = sun ("Soft")
-spill (hasil)
+hasil = sun("Soft")
+spill(hasil)
 
 ```
 
@@ -450,13 +459,13 @@ spill (hasil)
 ### Fungsi dasar dengan parameter (F String)
 
 ``` spillscript
-gas kop (nama):
-         spill (f”Hello  {nama}”)
+gas kop(nama):
+         spill(f”Hello  {nama}”)
 
-kop (“Hayyan”)
-kop (“Ruyyan”)
-kop (“Dankut”)
-kop (“Ruft”)
+kop(“Hayyan”)
+kop(“Ruyyan”)
+kop(“Dankut”)
+kop(“Ruft”)
 
 ```
 
@@ -465,11 +474,11 @@ kop (“Ruft”)
 ### Fungsi dasar dengan return (F String)
 
 ``` spillscript
-gas sun (nama):
-         balik (f”Hello  {nama}”)
+gas sun(nama):
+         balik(f”Hello  {nama}”)
 
-hasil = sun (“Hayyan”)
-spill (hasil)
+hasil = sun(“Hayyan”)
+spill(hasil)
 
 ```
 
