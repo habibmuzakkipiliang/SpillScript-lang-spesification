@@ -54,7 +54,6 @@ multiline
 
 ```spillscript
 // Hello World
-
 spill("Hello World")
 
 ```
