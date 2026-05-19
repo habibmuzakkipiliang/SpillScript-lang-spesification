@@ -392,37 +392,73 @@ spill("Coding : ", biodata["coding"])
 
 ---
 
-## Fungsi
+---------------------------------------------------------------------------------------------------------
 
-### Fungsi Dasar
+### Fungsi dasar 
 
-```spillscript
-gas dasar():
-    spill("Hello World")
+``` spillscript
+gas dasar ():
+       spill ("Hello World")
 
-dasar()
+dasar ()
+
 ```
 
-### Fungsi dengan Parameter
+---------------------------------------------------------------------------------------------------------
 
-```spillscript
-gas kop(nama):
-    spill("Hello ", nama)
+### Fungsi dasar dengan parameter 
 
-kop("Hayyan")
+``` spillscript
+gas kop (nama):
+        spill ("Hello ", nama)
+
+kop ("Hayyan”)
+
 ```
 
-### Fungsi dengan Return
+---------------------------------------------------------------------------------------------------------
 
-```spillscript
-gas sun(nama):
-    balik("Hello ", nama)
+### Fungsi dasar dengan return 
 
-hasil = sun("Soft")
-spill(hasil)
+``` spillscript
+gas sun (nama):
+        balik ("Hello ", nama)
+
+hasil = sun ("Soft")
+spill (hasil)
+
 ```
 
----
+---------------------------------------------------------------------------------------------------------
+
+### Fungsi dasar dengan parameter (F String)
+
+``` spillscript
+gas kop (nama):
+         spill (f”Hello  {nama}”)
+
+kop (“Hayyan”)
+kop (“Ruyyan”)
+kop (“Dankut”)
+kop (“Ruft”)
+
+```
+
+---------------------------------------------------------------------------------------------------------
+
+### Fungsi dasar dengan return (F String)
+
+``` spillscript
+gas sun (nama):
+         balik (f”Hello  {nama}”)
+
+hasil = sun (“Hayyan”)
+spill (hasil)
+
+```
+
+---------------------------------------------------------------------------------------------------------
+
 
 ## Error Handling
 
