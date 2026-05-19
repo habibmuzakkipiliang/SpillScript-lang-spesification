@@ -220,10 +220,10 @@ var yor  = 9
 var cek = bener
 
 jika cek:
-      jika yor > 5:
-          spill ("Besar")
-      maka:
-          spill ("Kecil")
+     jika yor > 5:
+         spill ("Besar")
+     maka:
+        spill ("Kecil")
 maka:
     spill ("Sama saja")
 
