@@ -462,7 +462,7 @@ spill(hasil)
 
 ``` spillscript
 gas kop(nama):
-    spill(f”Hello  {nama}”)
+    spill(f”Hello {nama}”)
 
 kop(“Hayyan”)
 kop(“Ruyyan”)
@@ -477,7 +477,7 @@ kop(“Ruft”)
 
 ``` spillscript
 gas sun(nama):
-    balik(f”Hello  {nama}”)
+    balik(f”Hello {nama}”)
 
 hasil = sun(“Hayyan”)
 spill(hasil)
