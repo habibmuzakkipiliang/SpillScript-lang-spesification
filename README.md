@@ -503,6 +503,33 @@ akhir:
 
 ---
 
+## OOP Dasar
+
+```spillscript
+
+// Program OOP Sederhana SpillScript
+// Cetakan untuk membuat objek Kucing
+
+cetakan Kucing:
+    gas buat (ini, nama, suara):
+        ini.nama = nama
+        ini.suara = suara
+    
+    gas bersuara (ini):
+        spill (f"{ini.nama} bunyinya {ini.suara}!")
+
+// Membuat objek (instance) dari cetakan Kucing
+let kucing1 = Kucing("Oyen", "Meong")
+let kucing2 = Kucing("Milo", "Purr")
+
+// Memanggil metode objek
+kucing1.bersuara()
+kucing2.bersuara()
+
+```
+
+---
+
 ## Contoh Kode
 
 Berikut adalah contoh kode lengkap SpillScript:
