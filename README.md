@@ -204,7 +204,7 @@ let angka_1 = 10
 
 jika angka_1 >= 8:
     spill("Besar")
-silau angka_1 >= 5:
+jilau angka_1 >= 5:
     spill("kecil")
 maka:
     spill("sama saja")
@@ -219,7 +219,7 @@ var cek = bener
 jika cek:
     jika tor >= 8:
         spill("Besar")
-    silau tor >= 5:
+    jilau tor >= 5:
         spill("kecil")
 maka:
     spill("sama saja")
