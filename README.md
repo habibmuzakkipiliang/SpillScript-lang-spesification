@@ -1,4 +1,4 @@
-[📖 README](README.md) | [👥 Contributing](CONTRIBUTING.md) | [⚖️ MIT License](LICENSE) | [💡 Solusi](SOLUSI.md)
+**[📖 README](README.md)** | **[👥 Contributing](CONTRIBUTING.md)** | **[⚖️ MIT License](LICENSE)** | **[💡 Solusi](SOLUSI.md)**
    ***
 
 # SpillScript
