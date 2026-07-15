@@ -1,5 +1,5 @@
 [📖 README](README.md) | [👥 Contributing](CONTRIBUTING.md) | [⚖️ MIT License](LICENSE) | [💡 Solusi](SOLUSI.md)
-   ---
+   ***
 
 # SpillScript
 
@@ -26,13 +26,15 @@ SpillScript adalah bahasa pemrograman baru dengan sintaks berbahasa Indonesia ya
 - [OOP Dasar](#oop-dasar)
 - [Contoh Kode](#contoh-kode)
 
----
+***
 
 ## Tentang SpillScript
 
 > **Bahasa Pemrograman Gaul Indonesia: Jembatan Coding Ramah Pemula & Berperforma Tinggi**
 
 **SpillScript (.sps)** adalah bahasa pemrograman _General-Purpose_ (multiperan) modern yang dirancang khusus sebagai jembatan edukasi bagi pemula, Gen Z, dan Gen Alpha di Indonesia agar bisa belajar coding dengan cara yang menyenangkan dan bebas stres.
+
+---
 
 ### 🚀 Konsep & Arsitektur Hybrid
 
@@ -45,7 +47,8 @@ SpillScript menggabungkan keunggulan dari tiga bahasa pemrograman raksasa dunia:
 *   **Keamanan TypeScript:** Dilengkapi dengan fitur opsional _Type Hinting_ modern untuk memastikan keamanan tipe data sejak awal.
     
 *   **Terminologi Gaul Lokal:** Seluruh sintaksis dibungkus dengan bahasa gaul (_slang_) Indonesia yang santai, logis, dan natural.
-    
+
+---    
 
 ### 🧠 Fitur Unggulan & Filosofi
 
@@ -54,7 +57,8 @@ SpillScript menggabungkan keunggulan dari tiga bahasa pemrograman raksasa dunia:
 *   **Jembatan Edukasi (Bridge Language):** Berfungsi sebagai langkah awal yang ramah untuk menguasai konsep pemrograman mendasar sebelum bertransisi ke bahasa formal global seperti Python, JavaScript, TypeScript, Kotlin, Rust, dan Swift.
     
 *   **General-Purpose (Multiperan):** Fleksibel dan serbabisa untuk berbagai kebutuhan pengembangan perangkat lunak modern.
-    
+
+---    
 
 ### ⚙️ Spesifikasi Teknis & Performa
 
@@ -66,6 +70,8 @@ SpillScript menggabungkan keunggulan dari tiga bahasa pemrograman raksasa dunia:
     
 *   **Performa Tinggi:** Dirancang cermat untuk memberikan kecepatan eksekusi dan performa tinggi yang mendekati bahasa sistem seperti C++ dan Rust Modern
 
+---
+
 ## Fitur Utama
 
 - **Sintaks Bahasa Indonesia**: Kata kunci dan struktur menggunakan bahasa Indonesia sehari-hari
@@ -73,7 +79,7 @@ SpillScript menggabungkan keunggulan dari tiga bahasa pemrograman raksasa dunia:
 - **Type Hinting Opsional**: Terinspirasi dari TypeScript untuk keamanan tambahan
 - **Modern Features**: Mendukung fitur-fitur bahasa pemrograman modern
 
----
+***
 
 ## Struktur Dasar
 
