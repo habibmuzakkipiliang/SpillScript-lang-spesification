@@ -30,7 +30,41 @@ SpillScript adalah bahasa pemrograman baru dengan sintaks berbahasa Indonesia ya
 
 ## Tentang SpillScript
 
-SpillScript dirancang untuk membuat pemrograman lebih mudah diakses bagi penutur bahasa Indonesia. Dengan sintaks yang natural dan familiar, SpillScript memungkinkan siapa saja untuk mulai coding tanpa harus mempelajari istilah-istilah teknis Inggris yang rumit.
+> **Bahasa Pemrograman Gaul Indonesia: Jembatan Coding Ramah Pemula & Berperforma Tinggi**
+
+**SpillScript (.sps)** adalah bahasa pemrograman _General-Purpose_ (multiperan) modern yang dirancang khusus sebagai jembatan edukasi bagi pemula, Gen Z, dan Gen Alpha di Indonesia agar bisa belajar coding dengan cara yang menyenangkan dan bebas stres.
+
+### 🚀 Konsep & Arsitektur Hybrid
+
+SpillScript menggabungkan keunggulan dari tiga bahasa pemrograman raksasa dunia:
+
+*   **Logika & Keterbacaan Python:** Mengadopsi struktur, kesederhanaan logika, dan sistem indentasi bersih khas Python.
+    
+*   **Deklarasi & Gaya JavaScript:** Menggunakan gaya deklarasi variabel (var, let, fiks) serta format komentar khas JavaScript.
+    
+*   **Keamanan TypeScript:** Dilengkapi dengan fitur opsional _Type Hinting_ modern untuk memastikan keamanan tipe data sejak awal.
+    
+*   **Terminologi Gaul Lokal:** Seluruh sintaksis dibungkus dengan bahasa gaul (_slang_) Indonesia yang santai, logis, dan natural.
+    
+
+### 🧠 Fitur Unggulan & Filosofi
+
+*   **Pesan Eror Empatik:** Dilengkapi dengan fitur _Error Message_ yang bersahabat dan peduli kesehatan mental pemula, membantu menjaga motivasi belajar agar tidak mudah menyerah.
+    
+*   **Jembatan Edukasi (Bridge Language):** Berfungsi sebagai langkah awal yang ramah untuk menguasai konsep pemrograman mendasar sebelum bertransisi ke bahasa formal global seperti Python, JavaScript, TypeScript, Kotlin, Rust, dan Swift.
+    
+*   **General-Purpose (Multiperan):** Fleksibel dan serbabisa untuk berbagai kebutuhan pengembangan perangkat lunak modern.
+    
+
+### ⚙️ Spesifikasi Teknis & Performa
+
+*   **Mesin Interpreter Mandiri:** Berjalan di atas sistem interpreter sendiri menggunakan berkas eksekusi SpillScript.exe.
+    
+*   **Manajemen Memori Otomatis:** Dilengkapi sistem _Garbage Collection_ otomatis yang sangat aman dan efisien mirip Python.
+    
+*   **Tipe Data Dinamis Modern:** Menggunakan sistem pengetikan dinamis yang fleksibel namun tetap terstruktur.
+    
+*   **Performa Tinggi:** Dirancang cermat untuk memberikan kecepatan eksekusi dan performa tinggi yang mendekati bahasa sistem seperti C++ dan Rust Modern
 
 ## Fitur Utama
 
