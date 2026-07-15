@@ -201,9 +201,9 @@ maka:
 ```spillscript
 let angka_1 = 10
 
-jika angka_1 > 5:
+jika angka_1 >= 8:
     spill("Besar")
-silau angka_1 < 5:
+silau angka_1 >= 5:
     spill("kecil")
 maka:
     spill("sama saja")
@@ -216,9 +216,9 @@ var tor = 9
 var cek = bener
 
 jika cek:
-    jika tor > 5:
+    jika tor >= 8:
         spill("Besar")
-    silau tor < 5:
+    silau tor >= 5:
         spill("kecil")
 maka:
     spill("sama saja")
@@ -231,7 +231,7 @@ var yor  = 9
 var cek = bener
 
 jika cek:
-     jika yor > 5:
+     jika yor >= 5:
          spill("Besar")
      maka:
         spill("Kecil")
