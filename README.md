@@ -551,13 +551,13 @@ akhir:
 // Program OOP Sederhana SpillScript
 // Cetakan untuk membuat objek Kucing
 
-cetakan Kucing:
-    gas buat (ini, nama, suara):
-        ini.nama = nama
-        ini.suara = suara
+bentukan Kucing:
+    gas buat (si, nama, suara):
+        si.nama = nama
+        si.suara = suara
     
-    gas bersuara (ini):
-        spill (f"{ini.nama} bunyinya {ini.suara}!")
+    gas bersuara (si):
+        spill (f"{si.nama} bunyinya {si.suara}!")
 
 // Membuat objek (instance) dari cetakan Kucing
 let kucing1 = Kucing("Oyen", "Meong")
