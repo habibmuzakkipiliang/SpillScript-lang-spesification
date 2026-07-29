@@ -24,7 +24,7 @@ SpillScript adalah bahasa pemrograman baru dengan sintaks berbahasa Indonesia ya
 - [Fungsi](#fungsi)
 - [Error Handling](#error-handling)
 - [OOP Dasar](#oop-dasar)
-- [OOP Pewarisan (Inheritance)](#oop-pewarisan-inheritance)
+- [OOP Pewarisan](#oop-pewarisan)
 - [Contoh Kode](#contoh-kode)
 
 ***
@@ -576,7 +576,7 @@ kucing2.bersuara()
 
 ---
 
-# OOP Inheritance (Pewarisan)
+# OOP Inheritance
 
 ``` spillscript
 // Membuat bentukan baru bernama Anggora yang meniru Kucing
