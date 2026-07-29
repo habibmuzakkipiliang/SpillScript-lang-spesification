@@ -559,11 +559,15 @@ bentukan Kucing:
     gas bersuara (si):
         spill (f"{si.nama} bunyinya {si.suara}!")
 
+
 // Membuat objek (instance) dari cetakan Kucing
+
 let kucing1 = Kucing("Oyen", "Meong")
 let kucing2 = Kucing("Milo", "Purr")
 
+
 // Memanggil metode objek
+
 kucing1.bersuara()
 kucing2.bersuara()
 
