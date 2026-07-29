@@ -124,7 +124,7 @@ fiks PI = 3.14159
 
 // Contoh pembuatan variabel
 
-var contoh_aja = “hello world” 
+var contoh_aja = "hello world"
 spill(contoh_aja)
 
 ```
