@@ -553,7 +553,7 @@ akhir:
 // Cetakan untuk membuat objek Kucing
 
 bentukan Kucing:
-    gas buat (si, nama, suara):
+    gas bikin (si, nama, suara):
         si.nama = nama
         si.suara = suara
     
