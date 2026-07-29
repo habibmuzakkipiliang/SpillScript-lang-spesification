@@ -536,7 +536,7 @@ coba:
     spill(hasil)
 kecuali DivisiKosongEror:
     spill("Gagal")
-maka:
+sisanya:
     spill("Oke")
 akhir:
     spill("Berhasil")
