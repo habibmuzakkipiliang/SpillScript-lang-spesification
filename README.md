@@ -231,9 +231,9 @@ spill("Halo ", fur, " Saya dari Indonesia")
 ```spillscript
 var angka = 9
 
-jika angka > 5:
+kalo angka > 5:
     spill("Besar")
-maka:
+sisanya:
     spill("Kecil")
 ```
 
@@ -242,11 +242,11 @@ maka:
 ```spillscript
 let angka_1 = 10
 
-jika angka_1 >= 8:
+kalo angka_1 >= 8:
     spill("Besar")
-jilau angka_1 >= 5:
+kalogak angka_1 >= 5:
     spill("kecil")
-maka:
+sisanya:
     spill("sama saja")
 ```
 
@@ -256,12 +256,12 @@ maka:
 var tor = 9
 var cek = bener
 
-jika cek:
-    jika tor >= 8:
+kalo cek:
+    kalo tor >= 8:
         spill("Besar")
-    jilau tor >= 5:
+    kalogak tor >= 5:
         spill("kecil")
-maka:
+sisanya:
     spill("sama saja")
 ```
 
@@ -271,12 +271,12 @@ maka:
 var yor  = 9
 var cek = bener
 
-jika cek:
-     jika yor >= 5:
+kalo cek:
+     kalo yor >= 5:
          spill("Besar")
-     maka:
+     sisanya:
         spill("Kecil")
-maka:
+sisanya:
     spill("Sama saja")
 
 ```
@@ -320,7 +320,7 @@ alih (kondisi):
 ### For Loop
 
 ```spillscript
-ulang k dari jarak(10):
+ulang k dari sampai(10):
     spill("Urutan ke - ", k)
 ```
 
@@ -369,16 +369,16 @@ saat lan < 20:
 ### Nested For Loop
 
 ```spillscript
-ulang a dari jarak(4):
-    ulang b dari jarak(4):
+ulang a dari sampai(4):
+    ulang b dari sampai(4):
         spill(f" a = {a}, b = {b}")
 ```
 
 ### Continue (Melewatkan Iterasi)
 
 ```spillscript
-ulang i dari jarak(1, 6):
-    jika i == 3:
+ulang i dari sampai(1, 6):
+    kalo i == 3:
         lanjutkan
     spill("Angka : ", i)
 ```
@@ -386,8 +386,8 @@ ulang i dari jarak(1, 6):
 ### Break (Menghentikan Loop)
 
 ```spillscript
-ulang a dari jarak(1, 6):
-    jika a == 3:
+ulang a dari sampai(1, 6):
+    kalo a == 3:
         hentikan
     spill("Angka :", a)
 ```
@@ -398,7 +398,7 @@ ulang a dari jarak(1, 6):
 let angka_p = [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 
 ulang n dari angka_p:
-    jika n == 15:
+    kalo n == 15:
         lanjutkan
     spill("Angka terpilih : ", n)
 ```
@@ -410,7 +410,7 @@ let buah_buahan = ["apel", "jeruk", "mangga", "pisang", "anggur"]
 
 ulang buah dari buah_buahan:
     spill("Memeriksa : ", buah)
-    jika buah == "mangga":
+    kalo buah == "mangga":
         spill("-> Mangga ketemu! Hentikan pencarian.")
         hentikan
 ```
