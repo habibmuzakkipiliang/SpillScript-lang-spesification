@@ -21,11 +21,14 @@ SpillScript adalah bahasa pemrograman baru dengan sintaks berbahasa Indonesia ya
 - [Kontrol Alur](#kontrol-alur)
 - [Perulangan](#perulangan)
 - [Koleksi Data](#koleksi-data)
-- [Fungsi](#fungsi)
+- [Fungsi](#fungsi-dasar)
 - [Error Handling](#error-handling)
 - [OOP Dasar](#oop-dasar)
 - [OOP Pewarisan](#oop-pewarisan)
 - [Contoh Kode](#contoh-kode)
+- [Struktur File](#struktur-file)
+- [Penulis](#penulis)
+- [Lisensi](#lisensi)
 
 ***
 
@@ -78,8 +81,11 @@ SpillScript menggabungkan keunggulan dari tiga bahasa pemrograman raksasa dunia:
 ## Fitur Utama
 
 - **Sintaks Bahasa Indonesia**: Kata kunci dan struktur menggunakan bahasa Indonesia sehari-hari
+
 - **Dinamically Typed**: Tipe data dinamis seperti Python dan JavaScript
+
 - **Type Hinting Opsional**: Terinspirasi dari TypeScript untuk keamanan tambahan
+
 - **Modern Features**: Mendukung fitur-fitur bahasa pemrograman modern
 
 ***
@@ -433,7 +439,7 @@ ulang buah dari buah_buahan:
 
 ---
 
-## Koleksi Data
+# Koleksi Data
 
 ### Array
 
@@ -478,7 +484,7 @@ spill("Coding : ", biodata["coding"])
 
 ---------------------------------------------------------------------------------------------------------
 
-### Fungsi dasar 
+# Fungsi dasar 
 
 ``` spillscript
 gas dasar():
@@ -544,7 +550,7 @@ spill(hasil)
 ---------------------------------------------------------------------------------------------------------
 
 
-## Error Handling
+# Error Handling
 
 ```spillscript
 coba:
@@ -560,7 +566,7 @@ akhir:
 
 ---
 
-## OOP Dasar
+# OOP Dasar
 
 ```spillscript
 
@@ -591,7 +597,7 @@ kucing2.bersuara()
 
 ---
 
-# OOP Pewarisan
+## OOP Pewarisan
 
 ``` spillscript
 // Membuat bentukan baru bernama Anggora yang meniru Kucing
@@ -610,7 +616,7 @@ bentukan Anggora tiru Kucing:
 
 ---
 
-## Contoh Kode
+# Contoh Kode
 
 Berikut adalah contoh kode lengkap SpillScript:
 
