@@ -41,11 +41,11 @@ SpillScript adalah bahasa pemrograman baru dengan sintaks berbahasa Indonesia ya
 
 SpillScript menggabungkan keunggulan dari tiga bahasa pemrograman raksasa dunia:
 
-*   **Logika & Keterbacaan Python:** Mengadopsi struktur, kesederhanaan logika, dan sistem indentasi bersih khas Python.
+*   **Logika, Struktur kode & Keterbacaan Python:** Mengadopsi struktur, kesederhanaan logika, dan sistem indentasi bersih khas Python.
     
-*   **Deklarasi & Gaya JavaScript:** Menggunakan gaya deklarasi variabel (var, let, fiks) serta format komentar khas JavaScript.
+*   **Deklarasi & Gaya JavaScript:** Menggunakan gaya deklarasi variabel (var, let, fiks) serta format komentar khas JavaScript (//).
     
-*   **Keamanan TypeScript:** Dilengkapi dengan fitur opsional _Type Hinting_ modern untuk memastikan keamanan tipe data sejak awal.
+*   **Keamanan TypeScript Opsional:** Dilengkapi dengan fitur opsional _Type Hinting_ modern untuk memastikan keamanan tipe data sejak awal.
     
 *   **Terminologi Gaul Lokal:** Seluruh sintaksis dibungkus dengan bahasa gaul (_slang_) Indonesia yang santai, logis, dan natural.
 
