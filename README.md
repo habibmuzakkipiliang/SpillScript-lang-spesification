@@ -251,7 +251,7 @@ sisanya:
     spill("Kecil")
 ```
 
-### If-Else If-Else
+### If-Elif-Else
 
 ```spillscript
 let angka_1 = 10
