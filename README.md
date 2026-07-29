@@ -24,6 +24,7 @@ SpillScript adalah bahasa pemrograman baru dengan sintaks berbahasa Indonesia ya
 - [Fungsi](#fungsi)
 - [Error Handling](#error-handling)
 - [OOP Dasar](#oop-dasar)
+- [OOP Inheritance (Pewarisan)](#oop-inheritance-(pewarisan))
 - [Contoh Kode](#contoh-kode)
 
 ***
