@@ -118,11 +118,11 @@ fiks PI = 3.14159
 
 ---
 
-### Contoh Pembuatan variabel
+### Contoh Pembuatan variabel (WAJIB)
 
 ``` spillscript
 
-// Contoh pembuatan variabel
+// Contoh pembuatan variabel (WAJIB)
 
 var contoh_aja = "hello world"
 spill(contoh_aja)
