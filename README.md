@@ -118,6 +118,19 @@ fiks PI = 3.14159
 
 ---
 
+### Contoh Pembuatan variabel
+
+``` spillscript
+
+// Contoh pembuatan variabel
+
+var contoh_aja = “hello world” 
+spill(contoh_aja)
+
+```
+
+---
+
 ## Tipe Data
 
 SpillScript memiliki tipe data yang dinamis, tapi juga mendukung type hinting opsional.
