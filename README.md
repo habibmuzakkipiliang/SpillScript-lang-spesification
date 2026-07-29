@@ -571,6 +571,18 @@ kucing2.bersuara()
 
 ---
 
+# OOP Inheritance (Pewarisan)
+
+``` spillscript
+// Membuat bentukan baru bernama Anggora yang meniru Kucing
+
+bentukan Anggora tiru Kucing:
+    gas bulu_panjang(si):
+        spill(f"{si.nama} punya bulu yang lebat banget!")
+```
+
+---
+
 ## Contoh Kode
 
 Berikut adalah contoh kode lengkap SpillScript:
