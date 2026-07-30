@@ -36,7 +36,7 @@ SpillScript adalah ide dan rancangan awal bahasa pemrograman baru dengan sintaks
 
 > **Bahasa Pemrograman Gaul Indonesia: Jembatan Coding Ramah Pemula & Berperforma Tinggi**
 
-**SpillScript (.sps)** adalah bahasa pemrograman _General-Purpose_ (multiperan) modern yang dirancang khusus sebagai jembatan edukasi bagi pemula, Gen Z, dan Gen Alpha di Indonesia agar bisa belajar coding dengan cara yang menyenangkan dan bebas stres.
+**SpillScript (.sps)** adalah ide dan rancangan awal bahasa pemrograman _General-Purpose_ (multiperan) modern yang dirancang khusus sebagai jembatan edukasi bagi pemula, Gen Z, dan Gen Alpha di Indonesia agar bisa belajar coding dengan cara yang menyenangkan dan bebas stres.
 
 ---
 
