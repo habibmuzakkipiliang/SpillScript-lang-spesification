@@ -72,7 +72,7 @@ SpillScript menggabungkan keunggulan dari tiga bahasa pemrograman raksasa dunia:
     
 *   **Tipe Data Dinamis Modern:** Menggunakan sistem pengetikan dinamis yang fleksibel namun tetap terstruktur.
 
-*   **Tanpa Titik koma dan tanpa kurung kurawal (C Style) sama sekali**: diadopsi dari gaya khas Python
+*   **Tanpa titik koma dan tanpa kurung kurawal (C Style) sama sekali**: diadopsi dari gaya khas Python
     
 *   **Performa Tinggi:** Dirancang cermat untuk memberikan kecepatan eksekusi dan performa tinggi yang mendekati bahasa sistem seperti C++ dan Rust Modern
 
