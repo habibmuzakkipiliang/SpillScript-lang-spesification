@@ -7,7 +7,7 @@
 [![Status](https://img.shields.io/badge/Status-Development-yellow?style=flat-square)]()
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)]()
 
-SpillScript adalah bahasa pemrograman baru dengan sintaks berbahasa Indonesia yang gaul dan mudah dipahami. Terinspirasi dari JavaScript, Python, dan TypeScript.
+SpillScript adalah ide dan rancangan awal bahasa pemrograman baru dengan sintaks berbahasa Indonesia yang gaul dan mudah dipahami. Terinspirasi dari JavaScript, Python, dan TypeScript.
 
 ![SpillScript Logo](SpillScript-logo-icon.jpg)
 
