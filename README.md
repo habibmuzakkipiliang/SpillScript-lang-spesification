@@ -121,7 +121,7 @@ var nama = "Habib"
 let umur = 20
 
 // Deklarasi konstan
-fiks PI = 3.14159
+fiks PI = 3.14
 ```
 
 ---
