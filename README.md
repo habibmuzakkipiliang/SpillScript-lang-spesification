@@ -7,7 +7,7 @@
 [![Status](https://img.shields.io/badge/Status-Development-yellow?style=flat-square)]()
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)]()
 
-SpillScript adalah ide dan rancangan awal bahasa pemrograman baru dengan sintaks berbahasa Indonesia yang gaul dan mudah dipahami. Terinspirasi dari JavaScript, Python, dan TypeScript.
+SpillScript adalah ide dan rancangan awal bahasa pemrograman baru dengan sintaks berbahasa Indonesia yang gaul dan mudah dipahami. Terinspirasi dari JavaScript, Python, dan TypeScript, dan sepenuhnya untuk pengembangan dalam yang lebih lanjut, diserahkan ke Komunitas IT Open Source seluruh Indonesia 
 
 ![SpillScript Logo](SpillScript-logo-icon.jpg)
 
@@ -36,7 +36,7 @@ SpillScript adalah ide dan rancangan awal bahasa pemrograman baru dengan sintaks
 
 > **Bahasa Pemrograman Gaul Indonesia: Jembatan Coding Ramah Pemula & Berperforma Tinggi**
 
-**SpillScript (.sps)** adalah ide dan rancangan awal bahasa pemrograman _General-Purpose_ (multiperan) modern yang dirancang khusus sebagai jembatan edukasi bagi pemula, Gen Z, dan Gen Alpha di Indonesia agar bisa belajar coding dengan cara yang menyenangkan dan bebas stres.
+**SpillScript (.sps)** adalah ide dan rancangan awal bahasa pemrograman _General-Purpose_ (multiperan) modern yang dirancang khusus sebagai jembatan edukasi bagi pemula, Gen Z, dan Gen Alpha di Indonesia agar bisa belajar coding dengan cara yang menyenangkan dan bebas stres, dan sepenuhnya untuk pengembangan dalam yang lebih lanjut, diserahkan ke Komunitas IT Open Source seluruh Indonesia 
 
 ---
 
