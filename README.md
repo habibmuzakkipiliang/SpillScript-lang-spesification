@@ -128,7 +128,7 @@ fiks PI = 3.14
 
 ---
 
-### Contoh Pembuatan variabel (WAJIB)
+### Contoh penulisan wajib variabel SpillScript
 
 ``` spillscript
 
@@ -141,7 +141,7 @@ spill(contoh_aja)
 
 ---
 
-## Tipe Data
+## Tipe Data Pemrograman
 
 SpillScript memiliki tipe data yang dinamis, tapi juga mendukung type hinting opsional.
 
@@ -165,6 +165,20 @@ let huruf : char = 'A'
 | `cek`       | bool      | Boolean (true/false) |
 | `char`      | char      | Karakter tunggal     |
 | `null`      | null/None | Nilai kosong         |
+
+---
+
+### Cek Jenis Tipe data pemrograman
+
+```spillscript
+
+spill(type (angka))
+spill(type (desimal))
+spill(type (cek))
+spill(type (teks))
+```
+
+---
 
 ### Manipulasi String (Interpolasi)
 
