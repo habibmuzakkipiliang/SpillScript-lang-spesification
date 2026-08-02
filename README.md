@@ -391,7 +391,7 @@ var lan = 10
 dor:
     spill("Urutan ke -", lan)
     lan = lan + 1
-saat lan < 20:
+saat lan < 20
 ```
 
 ### Do While Loop Singkat
@@ -402,7 +402,7 @@ var lan = 10
 dor:
     spill("Urutan ke -", lan)
     lan += 1
-saat lan < 20:
+saat lan < 20
 ```
 
 ### Nested For Loop
