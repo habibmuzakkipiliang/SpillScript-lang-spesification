@@ -613,7 +613,7 @@ kucing2.bersuara()
 
 ---
 
-## OOP Pewarisan
+### OOP Pewarisan
 
 ``` spillscript
 // Membuat bentukan baru bernama Anggora yang meniru Kucing
