@@ -624,7 +624,7 @@ bentukan Anggora tiru Kucing:
     // Memanggil konstruktor Kucing lewat fungsi 'induk'
 
     gas bikin(si, nama, suara, warna):
-        induk.buat(si, nama, suara) 
+        induk.bikin(si, nama, suara) 
         si.warna = warna
 
     gas spek_lengkap(si):
