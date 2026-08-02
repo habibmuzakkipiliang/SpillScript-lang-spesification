@@ -155,7 +155,7 @@ let hasil : cek = bener
 let huruf : char = 'A'
 ```
 
-### Kamus Tipe Data
+### Kamus Tipe Data Pemrograman
 
 | SpillScript | English   | Deskripsi            |
 | ----------- | --------- | -------------------- |
