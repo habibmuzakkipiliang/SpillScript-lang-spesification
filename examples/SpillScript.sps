@@ -176,7 +176,7 @@ var x = 1
 dor:
     spill("  x: ", x)
     x += 1
-saat x <= 5:
+saat x <= 5
 
 // Loop dengan array
 spill("Loop dengan Array:")
