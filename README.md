@@ -16,7 +16,7 @@ SpillScript adalah ide dan rancangan awal bahasa pemrograman baru dengan sintaks
 - [Tentang SpillScript](#tentang-spillscript)
 - [Fitur Utama](#fitur-utama)
 - [Struktur Dasar](#struktur-dasar)
-- [Tipe Data](#tipe-data)
+- [Tipe Data Pemrograman](#tipe-data-pemrograman)
 - [Operator](#operator)
 - [Kontrol Alur](#kontrol-alur)
 - [Perulangan](#perulangan)
