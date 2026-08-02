@@ -68,7 +68,7 @@ SpillScript menggabungkan keunggulan dari tiga bahasa pemrograman raksasa dunia:
 
 *   **Mesin Interpreter Mandiri:** Berjalan di atas sistem interpreter sendiri menggunakan berkas eksekusi SpillScript.exe.
     
-*   **Manajemen Memori Otomatis:** Dilengkapi sistem _Garbage Collection_ otomatis yang sangat aman dan efisien mirip Python Modern saat ini.
+*   **Manajemen Memori Otomatis:** Dilengkapi sistem _Garbage Collection_ otomatis yang sangat aman dan efisien mirip Python Modern (versi 3.13) saat ini.
     
 *   **Tipe Data Dinamis Modern:** Menggunakan sistem pengetikan dinamis yang fleksibel namun tetap terstruktur.
 
@@ -76,7 +76,7 @@ SpillScript menggabungkan keunggulan dari tiga bahasa pemrograman raksasa dunia:
 
 *   **Tanpa titik koma dan tanpa kurung kurawal (C Style) sama sekali**: diadopsi dari gaya khas Python
     
-*   **Performa Tinggi khas Python Modern:** performa dan kecepatan yang sangat mirip dengan kecepatan Python Modern* 
+*   **Performa Tinggi dan cepat khas Python Modern:** performa dan kecepatan yang sangat mirip dengan kecepatan Python Modern (versi 3.13) 
 
 ---
 
