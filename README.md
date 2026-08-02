@@ -518,7 +518,7 @@ dasar()
 gas kop(nama):
     spill("Hello ", nama)
 
-kop("Hayyan”)
+kop("Hayyan")
 
 ```
 
@@ -541,12 +541,12 @@ spill(hasil)
 
 ``` spillscript
 gas kop(nama):
-    spill(f”Hello {nama}”)
+    spill(f"Hello {nama}")
 
-kop(“Hayyan”)
-kop(“Ruyyan”)
-kop(“Dankut”)
-kop(“Ruft”)
+kop("Hayyan")
+kop("Ruyyan")
+kop("Dankut")
+kop("Ruft")
 
 ```
 
@@ -556,9 +556,9 @@ kop(“Ruft”)
 
 ``` spillscript
 gas sun(nama):
-    balik(f”Hello {nama}”)
+    balik(f"Hello {nama}")
 
-hasil = sun(“Hayyan”)
+hasil = sun("Hayyan")
 spill(hasil)
 
 ```
@@ -638,7 +638,7 @@ Berikut adalah contoh kode lengkap SpillScript:
 
 ```spillscript
 // Program Hitung Luas Lingkaran
-fiks PI = 3.14159
+fiks PI = 3.14
 
 gas hitungLuasLingkaran(jari_jari):
     balik PI * jari_jari * jari_jari
