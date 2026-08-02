@@ -25,6 +25,7 @@ SpillScript adalah ide dan rancangan awal bahasa pemrograman baru dengan sintaks
 - [Error Handling](#error-handling)
 - [OOP Dasar](#oop-dasar)
 - [OOP Pewarisan](#oop-pewarisan)
+- [Asynchronous Programming](#asynchronous-programming)
 - [Contoh Kode](#contoh-kode)
 - [Struktur File](#struktur-file)
 - [Penulis](#penulis)
@@ -628,6 +629,23 @@ bentukan Anggora tiru Kucing:
 
     gas spek_lengkap(si):
         spill(f"{si.nama} warnanya {si.warna} dan bulunya lebat!")
+```
+
+---
+
+# Asynchronous Programming
+
+### Kamus Asynchronous Programming
+
+| SpillScript | English |
+|   nanti     |  async  |
+|   tunggu    |  await  |
+
+```spillscript
+nanti gas ambilData():
+      spill ("Lagi loading, sabar ya...")
+      let data = tunggu server.request()
+      spill (f"Data masuk: {data}")
 ```
 
 ---
