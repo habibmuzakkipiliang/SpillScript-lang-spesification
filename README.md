@@ -646,9 +646,9 @@ bentukan Anggora tiru Kucing:
 
 ```spillscript
 nanti gas ambilData():
-      spill ("Lagi loading, sabar ya...")
+      spill("Lagi loading, sabar ya...")
       let data = tunggu server.request()
-      spill (f"Data masuk: {data}")
+      spill(f"Data masuk: {data}")
 ```
 
 ---
