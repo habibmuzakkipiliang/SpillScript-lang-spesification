@@ -162,7 +162,7 @@ let huruf : char = 'A'
 | `teks`      | string    | Teks/string          |
 | `cek`       | bool      | Boolean (true/false) |
 | `char`      | char      | Karakter tunggal     |
-| `kosong`    | null/None | Nilai kosong         |
+| `null`      | null/None | Nilai kosong         |
 
 ### Manipulasi String (Interpolasi)
 
