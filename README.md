@@ -34,7 +34,7 @@ SpillScript adalah ide dan rancangan awal bahasa pemrograman baru dengan sintaks
 
 ## Tentang SpillScript
 
-> **Bahasa Pemrograman Gaul Indonesia: Jembatan Coding Ramah Pemula & Berperforma Tinggi**
+> **Bahasa Pemrograman Gaul Indonesia: Jembatan Coding Ramah Pemula & Berperforma Tinggi khas Python modern**
 
 **SpillScript (.sps)** adalah ide dan rancangan awal bahasa pemrograman _General-Purpose_ (multiperan) modern yang dirancang khusus sebagai jembatan edukasi bagi pemula, Gen Z, dan Gen Alpha di Indonesia agar bisa belajar coding dengan cara yang menyenangkan dan bebas stres, dan sepenuhnya untuk pengembangan dalam yang lebih lanjut, diserahkan ke Komunitas IT Open Source seluruh Indonesia 
 
@@ -68,13 +68,15 @@ SpillScript menggabungkan keunggulan dari tiga bahasa pemrograman raksasa dunia:
 
 *   **Mesin Interpreter Mandiri:** Berjalan di atas sistem interpreter sendiri menggunakan berkas eksekusi SpillScript.exe.
     
-*   **Manajemen Memori Otomatis:** Dilengkapi sistem _Garbage Collection_ otomatis yang sangat aman dan efisien mirip Python.
+*   **Manajemen Memori Otomatis:** Dilengkapi sistem _Garbage Collection_ otomatis yang sangat aman dan efisien mirip Python Modern saat ini.
     
 *   **Tipe Data Dinamis Modern:** Menggunakan sistem pengetikan dinamis yang fleksibel namun tetap terstruktur.
 
+*  **Tanpa Boilerplate sama sekali**: singkat, ringkas dan bersih khas Python modern
+
 *   **Tanpa titik koma dan tanpa kurung kurawal (C Style) sama sekali**: diadopsi dari gaya khas Python
     
-*   **Performa Tinggi:** Dirancang cermat untuk memberikan kecepatan eksekusi dan performa tinggi yang mendekati bahasa sistem seperti C++ dan Rust Modern
+*   **Performa Tinggi khas Python Modern:* performa dan kecepatan yang sangat mirip dengan kecepatan Python Modern* 
 
 ---
 
@@ -82,7 +84,7 @@ SpillScript menggabungkan keunggulan dari tiga bahasa pemrograman raksasa dunia:
 
 - **Sintaks Bahasa Indonesia**: Kata kunci dan struktur menggunakan bahasa Indonesia sehari-hari
 
-- **Dinamically Typed**: Tipe data dinamis seperti Python dan JavaScript
+- **Dinamically Typed**: Tipe data dinamis seperti Python (Kesederhanaan dan Keterbacaan tinggi) dan JavaScript (Deklarasi Variabel dan Comment)
 
 - **Type Hinting Opsional**: Terinspirasi dari TypeScript untuk keamanan tambahan
 
