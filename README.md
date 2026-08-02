@@ -76,7 +76,7 @@ SpillScript menggabungkan keunggulan dari tiga bahasa pemrograman raksasa dunia:
 
 *   **Tanpa titik koma dan tanpa kurung kurawal (C Style) sama sekali**: diadopsi dari gaya khas Python
     
-*   **Performa Tinggi khas Python Modern:* performa dan kecepatan yang sangat mirip dengan kecepatan Python Modern* 
+*   **Performa Tinggi khas Python Modern:** performa dan kecepatan yang sangat mirip dengan kecepatan Python Modern* 
 
 ---
 
