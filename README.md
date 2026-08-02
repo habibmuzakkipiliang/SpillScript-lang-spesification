@@ -638,6 +638,7 @@ bentukan Anggora tiru Kucing:
 ### Kamus Asynchronous Programming
 
 | SpillScript | English |
+|-------------|---------|
 |   nanti     |  async  |
 |   tunggu    |  await  |
 
